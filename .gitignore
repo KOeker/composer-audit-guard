@@ -1,0 +1,7 @@
+/vendor/
+/.auditguardrc.json
+/composer.lock
+/audit-results.xml
+/.idea/
+/.vscode/
+*.log

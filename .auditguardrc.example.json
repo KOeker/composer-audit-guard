@@ -1,0 +1,7 @@
+{
+  "blacklist": [
+    "example-package-1",
+    "example-package-2"
+  ],
+  "includeDev": false
+}
