@@ -1,6 +1,6 @@
 {
   "name": "koeker/composer-audit-guard",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "CLI tool for Composer security audit with blacklist functionality and JUnit XML reports",
   "type": "library",
   "keywords": [
@@ -42,7 +42,7 @@
     "bin/composer-audit-guard"
   ],
   "scripts": {
-    "test": "phpunit"
+    "test": "phpunit tests"
   },
   "minimum-stability": "stable",
   "prefer-stable": true
